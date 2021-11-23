@@ -1,0 +1,16 @@
+* {
+  background-color: rgb(47, 92, 190);
+}
+.App {
+  font-size: larger;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.img {
+  width: 400px;
+  height: 300px;
+  border-radius: 30px;
+}
